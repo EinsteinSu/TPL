@@ -1,0 +1,6 @@
+c:\Users\esu\documents\visual studio 2017\Projects\TPL\TPL.1-6\bin\Debug\TPL.1-6.exe.config
+c:\Users\esu\documents\visual studio 2017\Projects\TPL\TPL.1-6\bin\Debug\TPL.1-6.exe
+c:\Users\esu\documents\visual studio 2017\Projects\TPL\TPL.1-6\bin\Debug\TPL.1-6.pdb
+c:\Users\esu\documents\visual studio 2017\Projects\TPL\TPL.1-6\obj\Debug\TPL.1-6.exe
+c:\Users\esu\documents\visual studio 2017\Projects\TPL\TPL.1-6\obj\Debug\TPL.1-6.pdb
+C:\Users\esu\Documents\Visual Studio 2017\Projects\TPL\TPL.1-6\obj\Debug\TPL.1-6.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\esu\Documents\Visual Studio 2017\Projects\TPL\TPL.2-3\bin\Debug\TPL.2-3.exe.config
+C:\Users\esu\Documents\Visual Studio 2017\Projects\TPL\TPL.2-3\bin\Debug\TPL.2-3.exe
+C:\Users\esu\Documents\Visual Studio 2017\Projects\TPL\TPL.2-3\bin\Debug\TPL.2-3.pdb
+C:\Users\esu\Documents\Visual Studio 2017\Projects\TPL\TPL.2-3\obj\Debug\TPL.2-3.exe
+C:\Users\esu\Documents\Visual Studio 2017\Projects\TPL\TPL.2-3\obj\Debug\TPL.2-3.pdb
